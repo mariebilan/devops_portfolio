@@ -5746,7 +5746,7 @@ body.minimal {
 .btn-default:focus,
 .btn-default:hover {
     color: #fff;
-    background-color: #a0af14;
+    background-color: #000;
     border-color: #000
 }
 
